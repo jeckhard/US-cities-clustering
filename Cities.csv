@@ -1,0 +1,318 @@
+Name, State, Population, Capital, Location
+New York City[d], New York,"8,336,817",FALSE,40.6635°N 73.9387°W
+Los Angeles, California,"3,979,576",FALSE,34.0194°N 118.4108°W
+Chicago, Illinois,"2,693,976",FALSE,41.8376°N 87.6818°W
+Houston[3], Texas,"2,320,268",FALSE,29.7866°N 95.3909°W
+Phoenix, Arizona,"1,680,992",TRUE,33.5722°N 112.0901°W
+Philadelphia[e], Pennsylvania,"1,584,064",FALSE,40.0094°N 75.1333°W
+San Antonio, Texas,"1,547,253",FALSE,29.4724°N 98.5251°W
+San Diego, California,"1,423,851",FALSE,32.8153°N 117.1350°W
+Dallas, Texas,"1,343,573",FALSE,32.7933°N 96.7665°W
+San Jose, California,"1,021,795",FALSE,37.2967°N 121.8189°W
+Austin, Texas,"978,908",TRUE,30.3039°N 97.7544°W
+Jacksonville[f], Florida,"911,507",FALSE,30.3369°N 81.6616°W
+Fort Worth, Texas,"909,585",FALSE,32.7815°N 97.3467°W
+Columbus, Ohio,"898,553",TRUE,39.9852°N 82.9848°W
+Charlotte, North Carolina,"885,708",FALSE,35.2078°N 80.8310°W
+San Francisco[g], California,"881,549",FALSE,37.7272°N 123.0322°W
+Indianapolis[h], Indiana,"876,384",TRUE,39.7767°N 86.1459°W
+Seattle, Washington,"753,675",FALSE,47.6205°N 122.3509°W
+Denver[i], Colorado,"727,211",TRUE,39.7619°N 104.8811°W
+Washington[j], District of Columbia,"705,749",TRUE,38.9041°N 77.0172°W
+Boston, Massachusetts,"692,600",TRUE,42.3320°N 71.0202°W
+El Paso, Texas,"681,728",FALSE,31.8484°N 106.4270°W
+Nashville[k], Tennessee,"670,820",TRUE,36.1718°N 86.7850°W
+Detroit, Michigan,"670,031",FALSE,42.3830°N 83.1022°W
+Oklahoma City, Oklahoma,"655,057",TRUE,35.4671°N 97.5137°W
+Portland, Oregon,"654,741",FALSE,45.5370°N 122.6500°W
+Las Vegas, Nevada,"651,319",FALSE,36.2292°N 115.2601°W
+Memphis, Tennessee,"651,073",FALSE,35.1028°N 89.9774°W
+Louisville[l], Kentucky,"617,638",FALSE,38.1654°N 85.6474°W
+Baltimore[m], Maryland,"593,490",FALSE,39.3000°N 76.6105°W
+Milwaukee, Wisconsin,"590,157",FALSE,43.0633°N 87.9667°W
+Albuquerque, New Mexico,"560,513",FALSE,35.1056°N 106.6474°W
+Tucson, Arizona,"548,073",FALSE,32.1531°N 110.8706°W
+Fresno, California,"531,576",FALSE,36.7836°N 119.7934°W
+Mesa, Arizona,"518,012",FALSE,33.4019°N 111.7174°W
+Sacramento, California,"513,624",TRUE,38.5666°N 121.4686°W
+Atlanta, Georgia,"506,811",TRUE,33.7629°N 84.4227°W
+Kansas City, Missouri,"495,327",FALSE,39.1251°N 94.5510°W
+Colorado Springs, Colorado,"478,221",FALSE,38.8673°N 104.7607°W
+Omaha, Nebraska,"478,192",FALSE,41.2644°N 96.0451°W
+Raleigh, North Carolina,"474,069",TRUE,35.8306°N 78.6418°W
+Miami, Florida,"467,963",FALSE,25.7752°N 80.2086°W
+Long Beach, California,"462,628",FALSE,33.8092°N 118.1553°W
+Virginia Beach[m], Virginia,"449,974",FALSE,36.7800°N 76.0252°W
+Oakland, California,"433,031",FALSE,37.7698°N 122.2257°W
+Minneapolis, Minnesota,"429,606",FALSE,44.9633°N 93.2683°W
+Tulsa, Oklahoma,"401,190",FALSE,36.1279°N 95.9023°W
+Tampa, Florida,"399,700",FALSE,27.9701°N 82.4797°W
+Arlington, Texas,"398,854",FALSE,32.7007°N 97.1247°W
+New Orleans[n], Louisiana,"390,144",FALSE,30.0534°N 89.9345°W
+Wichita, Kansas,"389,938",FALSE,37.6907°N 97.3459°W
+Bakersfield, California,"384,145",FALSE,35.3212°N 119.0183°W
+Cleveland, Ohio,"381,009",FALSE,41.4785°N 81.6794°W
+Aurora, Colorado,"379,289",FALSE,39.6880°N 104.6897°W
+Anaheim, California,"350,365",FALSE,33.8555°N 117.7601°W
+Honolulu[b], Hawaii,"345,064",TRUE,21.3243°N 157.8476°W
+Santa Ana, California,"332,318",FALSE,33.7363°N 117.8830°W
+Riverside, California,"331,360",FALSE,33.9381°N 117.3932°W
+Corpus Christi, Texas,"326,586",FALSE,27.7543°N 97.1734°W
+Lexington[o], Kentucky,"323,152",FALSE,38.0407°N 84.4583°W
+Henderson, Nevada,"320,189",FALSE,36.0097°N 115.0357°W
+Stockton, California,"312,697",FALSE,37.9763°N 121.3133°W
+Saint Paul, Minnesota,"308,096",TRUE,44.9489°N 93.1041°W
+Cincinnati, Ohio,"303,940",FALSE,39.1402°N 84.5058°W
+St. Louis[m], Missouri,"300,576",FALSE,38.6357°N 90.2446°W
+Pittsburgh, Pennsylvania,"300,286",FALSE,40.4398°N 79.9766°W
+Greensboro, North Carolina,"296,710",FALSE,36.0951°N 79.8270°W
+Lincoln, Nebraska,"289,102",TRUE,40.8105°N 96.6803°W
+Anchorage[p], Alaska,"288,000",FALSE,61.1743°N 149.2843°W
+Plano, Texas,"287,677",FALSE,33.0508°N 96.7479°W
+Orlando, Florida,"287,442",FALSE,28.4166°N 81.2736°W
+Irvine, California,"287,401",FALSE,33.6784°N 117.7713°W
+Newark, New Jersey,"282,011",FALSE,40.7242°N 74.1726°W
+Durham, North Carolina,"278,993",FALSE,35.9811°N 78.9029°W
+Chula Vista, California,"274,492",FALSE,32.6277°N 117.0152°W
+Toledo, Ohio,"272,779",FALSE,41.6641°N 83.5819°W
+Fort Wayne, Indiana,"270,402",FALSE,41.0882°N 85.1439°W
+St. Petersburg, Florida,"265,351",FALSE,27.7620°N 82.6441°W
+Laredo, Texas,"262,491",FALSE,27.5604°N 99.4892°W
+Jersey City, New Jersey,"262,075",FALSE,40.7114°N 74.0648°W
+Chandler, Arizona,"261,165",FALSE,33.2829°N 111.8549°W
+Madison, Wisconsin,"259,680",TRUE,43.0878°N 89.4299°W
+Lubbock, Texas,"258,862",FALSE,33.5656°N 101.8867°W
+Scottsdale, Arizona,"258,069",FALSE,33.6843°N 111.8611°W
+Reno, Nevada,"255,601",FALSE,39.5491°N 119.8499°W
+Buffalo, New York,"255,284",FALSE,42.8925°N 78.8597°W
+Gilbert[q], Arizona,"254,114",FALSE,33.3103°N 111.7431°W
+Glendale, Arizona,"252,381",FALSE,33.5331°N 112.1899°W
+North Las Vegas, Nevada,"251,974",FALSE,36.2857°N 115.0939°W
+Winston–Salem, North Carolina,"247,945",FALSE,36.1027°N 80.2610°W
+Chesapeake[m], Virginia,"244,835",FALSE,36.6794°N 76.3018°W
+Norfolk[m], Virginia,"242,742",FALSE,36.9230°N 76.2446°W
+Fremont, California,"241,110",FALSE,37.4945°N 121.9412°W
+Garland, Texas,"239,928",FALSE,32.9098°N 96.6303°W
+Irving, Texas,"239,798",FALSE,32.8577°N 96.9700°W
+Hialeah, Florida,"233,339",FALSE,25.8699°N 80.3029°W
+Richmond[m], Virginia,"230,436",TRUE,37.5314°N 77.4760°W
+Boise[r], Idaho,"228,959",TRUE,43.6002°N 116.2317°W
+Spokane, Washington,"222,081",FALSE,47.6669°N 117.4333°W
+Baton Rouge[s], Louisiana,"220,236",TRUE,30.4422°N 91.1309°W
+Tacoma, Washington,"217,827",FALSE,47.2522°N 122.4598°W
+San Bernardino, California,"215,784",FALSE,34.1416°N 117.2936°W
+Modesto, California,"215,196",FALSE,37.6375°N 121.0030°W
+Fontana, California,"214,547",FALSE,34.1090°N 117.4629°W
+Des Moines, Iowa,"214,237",TRUE,41.5726°N 93.6102°W
+Moreno Valley, California,"213,055",FALSE,33.9233°N 117.2057°W
+Santa Clarita, California,"212,979",FALSE,34.4030°N 118.5042°W
+Fayetteville, North Carolina,"211,657",FALSE,35.0828°N 78.9735°W
+Birmingham, Alabama,"209,403",FALSE,33.5274°N 86.7990°W
+Oxnard, California,"208,881",FALSE,34.2023°N 119.2046°W
+Rochester, New York,"205,695",FALSE,43.1699°N 77.6169°W
+Port St. Lucie, Florida,"201,846",FALSE,27.2806°N 80.3883°W
+Grand Rapids, Michigan,"201,013",FALSE,42.9612°N 85.6556°W
+Huntsville, Alabama,"200,574",FALSE,34.6990°N 86.6730°W
+Salt Lake City, Utah,"200,567",TRUE,40.7769°N 111.9310°W
+Frisco, Texas,"200,490",FALSE,33.1554°N 96.8226°W
+Yonkers, New York,"200,370",FALSE,40.9459°N 73.8674°W
+Amarillo, Texas,"199,371",FALSE,35.1999°N 101.8302°W
+Glendale, California,"199,303",FALSE,34.1814°N 118.2458°W
+Huntington Beach, California,"199,223",FALSE,33.6906°N 118.0093°W
+McKinney, Texas,"199,177",FALSE,33.1985°N 96.6680°W
+Montgomery, Alabama,"198,525",TRUE,32.3472°N 86.2661°W
+Augusta[t], Georgia,"197,888",FALSE,33.3655°N 82.0734°W
+Aurora, Illinois,"197,757",FALSE,41.7635°N 88.2901°W
+Akron, Ohio,"197,597",FALSE,41.0805°N 81.5214°W
+Little Rock, Arkansas,"197,312",TRUE,34.7254°N 92.3586°W
+Tempe, Arizona,"195,805",FALSE,33.3884°N 111.9318°W
+Columbus[u], Georgia,"195,769",FALSE,32.5102°N 84.8749°W
+Overland Park, Kansas,"195,494",FALSE,38.8890°N 94.6906°W
+Grand Prairie, Texas,"194,543",FALSE,32.6869°N 97.0211°W
+Tallahassee, Florida,"194,500",TRUE,30.4551°N 84.2534°W
+Cape Coral, Florida,"194,495",FALSE,26.6432°N 81.9974°W
+Mobile, Alabama,"188,720",FALSE,30.6684°N 88.1002°W
+Knoxville, Tennessee,"187,603",FALSE,35.9707°N 83.9493°W
+Shreveport, Louisiana,"187,112",FALSE,32.4669°N 93.7922°W
+Worcester, Massachusetts,"185,428",FALSE,42.2695°N 71.8078°W
+Ontario, California,"185,010",FALSE,34.0394°N 117.6042°W
+Vancouver, Washington,"184,463",FALSE,45.6349°N 122.5957°W
+Sioux Falls, South Dakota,"183,793",FALSE,43.5383°N 96.7320°W
+Chattanooga, Tennessee,"182,799",FALSE,35.0660°N 85.2484°W
+Brownsville, Texas,"182,781",FALSE,25.9991°N 97.4550°W
+Fort Lauderdale, Florida,"182,437",FALSE,26.1412°N 80.1467°W
+Providence, Rhode Island,"179,883",TRUE,41.8231°N 71.4188°W
+Newport News[m], Virginia,"179,225",FALSE,37.0762°N 76.5220°W
+Rancho Cucamonga, California,"177,603",FALSE,34.1233°N 117.5642°W
+Santa Rosa, California,"176,753",FALSE,38.4468°N 122.7061°W
+Peoria, Arizona,"175,961",FALSE,33.7862°N 112.3080°W
+Oceanside, California,"175,742",FALSE,33.2245°N 117.3062°W
+Elk Grove, California,"174,775",FALSE,38.4146°N 121.3850°W
+Salem, Oregon,"174,365",TRUE,44.9237°N 123.0232°W
+Pembroke Pines, Florida,"173,591",FALSE,26.0210°N 80.3404°W
+Eugene, Oregon,"172,622",FALSE,44.0567°N 123.1162°W
+Garden Grove, California,"171,644",FALSE,33.7788°N 117.9605°W
+Cary[v], North Carolina,"170,282",FALSE,35.7809°N 78.8133°W
+Fort Collins, Colorado,"170,243",FALSE,40.5482°N 105.0648°W
+Corona, California,"169,868",FALSE,33.8620°N 117.5655°W
+Springfield, Missouri,"167,882",FALSE,37.1942°N 93.2913°W
+Jackson, Mississippi,"160,628",TRUE,32.3158°N 90.2128°W
+Alexandria[m], Virginia,"159,428",FALSE,38.8201°N 77.0841°W
+Hayward, California,"159,203",FALSE,37.6287°N 122.1024°W
+Clarksville, Tennessee,"158,146",FALSE,36.5664°N 87.3452°W
+Lakewood, Colorado,"157,935",FALSE,39.6989°N 105.1176°W
+Lancaster, California,"157,601",FALSE,34.6936°N 118.1753°W
+Salinas, California,"155,465",FALSE,36.6902°N 121.6337°W
+Palmdale, California,"155,079",FALSE,34.5910°N 118.1054°W
+Hollywood, Florida,"154,817",FALSE,26.0310°N 80.1646°W
+Springfield, Massachusetts,"153,606",FALSE,42.1155°N 72.5400°W
+Macon[w], Georgia,"153,159",FALSE,32.8088°N 83.6942°W
+Kansas City[x], Kansas,"152,960",FALSE,39.1225°N 94.7418°W
+Sunnyvale, California,"152,703",FALSE,37.3858°N 122.0263°W
+Pomona, California,"151,691",FALSE,34.0585°N 117.7611°W
+Killeen, Texas,"151,666",FALSE,31.0777°N 97.7320°W
+Escondido, California,"151,625",FALSE,33.1331°N 117.0740°W
+Pasadena, Texas,"151,227",FALSE,29.6586°N 95.1506°W
+Naperville, Illinois,"148,449",FALSE,41.7492°N 88.1620°W
+Bellevue, Washington,"148,164",FALSE,47.5979°N 122.1565°W
+Joliet, Illinois,"147,344",FALSE,41.5177°N 88.1488°W
+Murfreesboro, Tennessee,"146,900",FALSE,35.8522°N 86.4160°W
+Midland, Texas,"146,038",FALSE,32.0246°N 102.1135°W
+Rockford, Illinois,"145,609",FALSE,42.2588°N 89.0646°W
+Paterson, New Jersey,"145,233",FALSE,40.9148°N 74.1628°W
+Savannah, Georgia,"144,464",FALSE,32.0025°N 81.1536°W
+Bridgeport, Connecticut,"144,399",FALSE,41.1874°N 73.1958°W
+Torrance, California,"143,592",FALSE,33.8350°N 118.3414°W
+McAllen, Texas,"143,268",FALSE,26.2322°N 98.2464°W
+Syracuse, New York,"142,327",FALSE,43.0410°N 76.1436°W
+Surprise, Arizona,"141,664",FALSE,33.6706°N 112.4527°W
+Denton, Texas,"141,541",FALSE,33.2166°N 97.1414°W
+Roseville, California,"141,500",FALSE,38.7690°N 121.3189°W
+Thornton, Colorado,"141,464",FALSE,39.9194°N 104.9428°W
+Miramar, Florida,"141,191",FALSE,25.9770°N 80.3358°W
+Pasadena, California,"141,029",FALSE,34.1606°N 118.1396°W
+Mesquite, Texas,"140,937",FALSE,32.7629°N 96.5888°W
+Olathe, Kansas,"140,545",FALSE,38.8843°N 94.8195°W
+Dayton, Ohio,"140,407",FALSE,39.7774°N 84.1996°W
+Carrollton, Texas,"139,248",FALSE,32.9884°N 96.8998°W
+Waco, Texas,"139,236",FALSE,31.5601°N 97.1860°W
+Orange, California,"138,669",FALSE,33.7870°N 117.8613°W
+Fullerton, California,"138,632",FALSE,33.8857°N 117.9280°W
+Charleston, South Carolina,"137,566",FALSE,32.8179°N 79.9590°W
+West Valley City, Utah,"135,248",FALSE,40.6885°N 112.0118°W
+Visalia, California,"134,605",FALSE,36.3273°N 119.3289°W
+Hampton[m], Virginia,"134,510",FALSE,37.0480°N 76.2971°W
+Gainesville, Florida,"133,997",FALSE,29.6788°N 82.3461°W
+Warren, Michigan,"133,943",FALSE,42.4929°N 83.0250°W
+Coral Springs, Florida,"133,759",FALSE,26.2707°N 80.2593°W
+Cedar Rapids, Iowa,"133,562",FALSE,41.9670°N 91.6778°W
+Round Rock, Texas,"133,372",FALSE,30.5252°N 97.6660°W
+Sterling Heights, Michigan,"132,438",FALSE,42.5812°N 83.0303°W
+Kent, Washington,"132,319",FALSE,47.3880°N 122.2127°W
+Columbia, South Carolina,"131,674",TRUE,34.0291°N 80.8980°W
+Santa Clara, California,"130,365",FALSE,37.3646°N 121.9679°W
+New Haven, Connecticut,"130,250",FALSE,41.3108°N 72.9250°W
+Stamford, Connecticut,"129,638",FALSE,41.0799°N 73.5460°W
+Concord, California,"129,295",FALSE,37.9722°N 122.0016°W
+Elizabeth, New Jersey,"129,216",FALSE,40.6664°N 74.1935°W
+Athens[y], Georgia,"126,913",FALSE,33.9496°N 83.3701°W
+Thousand Oaks, California,"126,813",FALSE,34.1933°N 118.8742°W
+Lafayette[z], Louisiana,"126,185",FALSE,30.2074°N 92.0285°W
+Simi Valley, California,"125,613",FALSE,34.2669°N 118.7485°W
+Topeka, Kansas,"125,310",TRUE,39.0347°N 95.6962°W
+Norman, Oklahoma,"124,880",FALSE,35.2406°N 97.3453°W
+Fargo, North Dakota,"124,662",FALSE,46.8652°N 96.8290°W
+Wilmington, North Carolina,"123,744",FALSE,34.2092°N 77.8858°W
+Abilene, Texas,"123,420",FALSE,32.4545°N 99.7381°W
+Odessa, Texas,"123,334",FALSE,31.8838°N 102.3411°W
+Columbia, Missouri,"123,195",FALSE,38.951561°N 92.328638°W
+Pearland, Texas,"122,460",FALSE,29.5558°N 95.3231°W
+Victorville, California,"122,385",FALSE,34.5277°N 117.3536°W
+Hartford, Connecticut,"122,105",TRUE,41.7659°N 72.6816°W
+Vallejo, California,"121,692",FALSE,38.1079°N 122.2640°W
+Allentown, Pennsylvania,"121,442",FALSE,40.5936°N 75.4784°W
+Berkeley, California,"121,363",FALSE,37.8670°N 122.2991°W
+Richardson, Texas,"121,323",FALSE,32.9723°N 96.7081°W
+Arvada, Colorado,"121,272",FALSE,39.8337°N 105.1503°W
+Ann Arbor, Michigan,"119,980",FALSE,42.2761°N 83.7309°W
+Rochester, Minnesota,"118,935",FALSE,44.0154°N 92.4772°W
+Cambridge, Massachusetts,"118,927",FALSE,42.3760°N 71.1187°W
+Sugar Land, Texas,"118,488",FALSE,29.5994°N 95.6142°W
+Lansing, Michigan,"118,210",TRUE,42.7143°N 84.5593°W
+Evansville, Indiana,"117,979",FALSE,37.9877°N 87.5347°W
+College Station, Texas,"117,911",FALSE,30.5852°N 96.2964°W
+Fairfield, California,"117,133",FALSE,38.2593°N 122.0321°W
+Clearwater, Florida,"116,946",FALSE,27.9789°N 82.7666°W
+Beaumont, Texas,"116,825",FALSE,30.0849°N 94.1453°W
+Independence, Missouri,"116,672",FALSE,39.0855°N 94.3521°W
+Provo, Utah,"116,618",FALSE,40.2453°N 111.6448°W
+West Jordan, Utah,"116,480",FALSE,40.6024°N 112.0008°W
+Murrieta, California,"116,223",FALSE,33.5721°N 117.1904°W
+Palm Bay, Florida,"115,552",FALSE,27.9856°N 80.6626°W
+El Monte, California,"115,487",FALSE,34.0746°N 118.0291°W
+Carlsbad, California,"115,382",FALSE,33.1239°N 117.2828°W
+North Charleston, South Carolina,"115,382",FALSE,32.9178°N 80.0650°W
+Temecula, California,"114,761",FALSE,33.4931°N 117.1317°W
+Clovis, California,"114,584",FALSE,36.8282°N 119.6849°W
+Springfield, Illinois,"114,230",TRUE,39.7911°N 89.6446°W
+Meridian, Idaho,"114,161",FALSE,43.6142°N 116.3989°W
+Westminster, Colorado,"113,166",FALSE,39.8822°N 105.0644°W
+Costa Mesa, California,"113,003",FALSE,33.6659°N 117.9123°W
+High Point, North Carolina,"112,791",FALSE,35.9900°N 79.9905°W
+Manchester, New Hampshire,"112,673",FALSE,42.9849°N 71.4441°W
+Pueblo, Colorado,"112,361",FALSE,38.2699°N 104.6123°W
+Lakeland, Florida,"112,136",FALSE,28.0555°N 81.9549°W
+Pompano Beach, Florida,"112,118",FALSE,26.2416°N 80.1339°W
+West Palm Beach, Florida,"111,955",FALSE,26.7464°N 80.1251°W
+Antioch, California,"111,502",FALSE,37.9791°N 121.7962°W
+Everett, Washington,"111,475",FALSE,47.9566°N 122.1914°W
+Downey, California,"111,126",FALSE,33.9382°N 118.1309°W
+Lowell, Massachusetts,"110,997",FALSE,42.6390°N 71.3211°W
+Centennial, Colorado,"110,937",FALSE,39.5906°N 104.8691°W
+Elgin, Illinois,"110,849",FALSE,42.0396°N 88.3217°W
+Richmond, California,"110,567",FALSE,37.9523°N 122.3606°W
+Peoria, Illinois,"110,417",FALSE,40.7515°N 89.6174°W
+Broken Arrow, Oklahoma,"110,198",FALSE,36.0365°N 95.7810°W
+Miami Gardens, Florida,"110,001",FALSE,25.9489°N 80.2436°W
+Billings, Montana,"109,577",FALSE,45.7885°N 108.5499°W
+Jurupa Valley, California,"109,527",FALSE,34.0026°N 117.4676°W
+Sandy Springs, Georgia,"109,452",FALSE,33.9315°N 84.3687°W
+Gresham, Oregon,"109,381",FALSE,45.5023°N 122.4416°W
+Lewisville, Texas,"109,212",FALSE,33.0466°N 96.9818°W
+Hillsboro, Oregon,"109,128",FALSE,45.5280°N 122.9357°W
+Ventura[ab], California,"109,106",FALSE,34.2678°N 119.2542°W
+Greeley, Colorado,"108,649",FALSE,40.4153°N 104.7697°W
+Inglewood, California,"108,151",FALSE,33.9561°N 118.3443°W
+Waterbury, Connecticut,"107,568",FALSE,41.5585°N 73.0367°W
+League City, Texas,"107,536",FALSE,29.4901°N 95.1091°W
+Santa Maria, California,"107,263",FALSE,34.9332°N 120.4438°W
+Tyler, Texas,"106,985",FALSE,32.3173°N 95.3059°W
+Davie[ac], Florida,"106,306",FALSE,26.0791°N 80.2850°W
+Lakewood[ad], New Jersey,"106,300",FALSE,40.0771°N 74.2004°W
+Daly City, California,"106,280",FALSE,37.7009°N 122.4650°W
+Boulder, Colorado,"105,673",FALSE,40.0270°N 105.2519°W
+Allen, Texas,"105,623",FALSE,33.0997°N 96.6631°W
+West Covina, California,"105,101",FALSE,34.0559°N 117.9099°W
+Sparks, Nevada,"105,006",FALSE,39.5544°N 119.7356°W
+Wichita Falls, Texas,"104,683",FALSE,33.9067°N 98.5259°W
+Green Bay, Wisconsin,"104,578",FALSE,44.5207°N 87.9842°W
+San Mateo, California,"104,430",FALSE,37.5603°N 122.3106°W
+Norwalk, California,"103,949",FALSE,33.9076°N 118.0835°W
+Rialto, California,"103,526",FALSE,34.1118°N 117.3883°W
+Las Cruces, New Mexico,"103,432",FALSE,32.3264°N 106.7897°W
+Chico, California,"103,301",FALSE,39.7400°N 121.8356°W
+El Cajon, California,"102,708",FALSE,32.8017°N 116.9604°W
+Burbank, California,"102,511",FALSE,34.1901°N 118.3264°W
+South Bend, Indiana,"102,026",FALSE,41.6769°N 86.2690°W
+Renton, Washington,"101,751",FALSE,47.4761°N 122.1920°W
+Vista, California,"101,638",FALSE,33.1895°N 117.2386°W
+Davenport, Iowa,"101,590",FALSE,41.5541°N 90.6040°W
+Edinburg, Texas,"101,170",FALSE,26.3042°N 98.1639°W
+Tuscaloosa, Alabama,"101,129",FALSE,33.2065°N 87.5346°W
+Carmel, Indiana,"101,068",FALSE,39.9667°N 86.1000°W
+Spokane Valley, Washington,"101,060",FALSE,47.6733°N 117.2394°W
+San Angelo, Texas,"101,004",FALSE,31.4411°N 100.4505°W
+Vacaville, California,"100,670",FALSE,38.3539°N 121.9728°W
+Clinton[ae], Michigan,"100,471",FALSE,42.5903°N 82.9170°W
+Bend, Oregon,"100,421",FALSE,44.0500°N 121.3000°W
+Woodbridge[ad], New Jersey,"100,145",FALSE,40.5607°N 74.2927°W

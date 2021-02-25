@@ -1,0 +1,52 @@
+Name,Population,Region,Abbreviation,Party
+ Massachusetts,"6,892,503",NEng,MA,D
+ Connecticut,"3,565,287",NEng,CT,D
+ New Hampshire,"1,359,711",NEng,NH,D
+ Maine,"1,344,212",NEng,ME,D
+ Rhode Island,"1,059,361",NEng,RI,D
+ Vermont,"623,989",NEng,VT,D
+ New York,"19,453,561",MAtl,NY,D
+ Pennsylvania,"12,801,989",MAtl,PA,D
+ New Jersey,"8,882,190",MAtl,NJ,D
+ Florida,"21,477,737",SAtl,FL,R
+ Georgia,"10,617,423",SAtl,GA,D
+ North Carolina,"10,488,084",SAtl,NC,R
+ Virginia,"8,535,519",SAtl,VA,D
+ Maryland,"6,045,680",SAtl,MD,D
+ South Carolina,"5,148,714",SAtl,SC,R
+ West Virginia,"1,792,147",SAtl,WV,R
+ Delaware,"973,764",SAtl,DE,D
+ District of Columbia,"705,749",SAtl,DC,D
+ Tennessee,"6,829,174",ESC,TN,R
+ Alabama,"4,903,185",ESC,AL,R
+ Kentucky,"4,467,673",ESC,KY,R
+ Mississippi,"2,976,149",ESC,MS,R
+ Texas,"28,995,881",WSC,TX,R
+ Louisiana,"4,648,794",WSC,LA,R
+ Oklahoma,"3,956,971",WSC,OK,R
+ Arkansas,"3,017,804",WSC,AR,R
+ Illinois,"12,671,821",ENC,IL,D
+ Ohio,"11,689,100",ENC,OH,R
+ Michigan,"9,986,857",ENC,MI,D
+ Indiana,"6,732,219",ENC,IN,R
+ Wisconsin,"5,822,434",ENC,WI,D
+ Missouri,"6,137,428",WNC,MO,R
+ Minnesota,"5,639,632",WNC,MN,D
+ Iowa,"3,155,070",WNC,IA,R
+ Kansas,"2,913,314",WNC,KS,R
+ Nebraska,"1,934,408",WNC,NE,R
+ South Dakota,"884,659",WNC,SD,R
+ North Dakota,"762,062",WNC,ND,R
+ Arizona,"7,278,717",Mtn,AZ,D
+ Colorado,"5,758,736",Mtn,CO,D
+ Utah,"3,205,958",Mtn,UT,R
+ Nevada,"3,080,156",Mtn,NV,D
+ New Mexico,"2,096,829",Mtn,NM,D
+ Idaho,"1,787,065",Mtn,ID,R
+ Montana,"1,068,778",Mtn,MT,R
+ Wyoming,"578,759",Mtn,WY,R
+ California,"39,512,223",Pac,CA,D
+ Washington,"7,614,893",Pac,WA,D
+ Oregon,"4,217,737",Pac,OR,D
+ Hawaii,"1,415,872",Pac,HI,D
+ Alaska,"731,545",Pac,AK,R
