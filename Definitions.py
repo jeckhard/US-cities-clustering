@@ -12,11 +12,14 @@ Functions:
 readInStates: Reads in states and its properties
 readInCities: Reads in cities and its properties
 citySubset : Returns subset of cities in population interval and in given states
+angularDistance : Computes angular distance between two locations
+derivativesAngularDistance : Computes the derivatives of the angular distance at two locations
+createDistances : Creates a dictionary with all distances between given cities
 """
 
 import csv
 import math
-from math import sin,cos
+from math import sin,cos,sqrt
 
 class State:
     """
@@ -343,6 +346,26 @@ def angularDistance(location1,location2):
     return round(math.acos(sin(theta1) * sin(theta2) + cos(theta1) * cos(theta2) * cos(deltaphi)) * 180 / math.pi, 4)
 
 
+def derivativesAngularDistance(location1,location2):
+    """
+        Compute derivatives of the angular distance given two locations
+
+        :param location1, location2: (float,float)
+            (northern,western) coordinates of the two locations
+        :return: (float,float)
+            derivatives of the angular distance w.r.t. theta and phi in degree
+        """
+    theta1 = location1[0] * math.pi / 180
+    theta2 = location2[0] * math.pi / 180
+    deltaphi = (location1[1] - location2[1]) * math.pi / 180
+
+    denumerator = sqrt(1 - (sin(theta1) * sin(theta2) + cos(theta1) * cos(theta2) * cos(deltaphi)) ** 2)
+    numeratorTheta = -sin(theta1) * cos(theta2) + cos(theta1) * sin(theta2) * cos(deltaphi)
+    numeratorPhi = -cos(theta1) * cos(theta2) * sin(deltaphi)
+
+    return numeratorTheta / denumerator, numeratorPhi / denumerator
+
+
 def createDistances(citySet,reference=None):
     """
     Creates a dictionary of distances between cities
@@ -366,6 +389,5 @@ def createDistances(citySet,reference=None):
         for city in citySet:
             if city != reference:
                 distances[str(city)] = angularDistance(city.location,reference.location)
-
 
     return distances
