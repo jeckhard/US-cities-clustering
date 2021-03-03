@@ -391,3 +391,41 @@ def createDistances(citySet,reference=None):
                 distances[str(city)] = angularDistance(city.location,reference.location)
 
     return distances
+
+
+def Gaussian(pos,mean,cov):
+    """
+
+    :param pos: list or np.array
+        position of a point of dimension dim
+    :param mean: list or np.array
+        mean of a standard distribution of dimension dim
+    :param cov: np.array
+        np.array : covariance matrix of standard distribution of dimension dim x dim
+    :return: float
+        probability of pos w.r.t. the mean and the covariance
+    """
+
+    import numpy as np
+    import random
+
+    dim = len(pos)
+
+    det = np.linalg.det(cov)
+    if det < 10 ** (-1):
+        rand = random.random()
+        cov = cov + np.array([[rand, 0], [0, rand]])
+    covInv = np.linalg.inv(cov)
+
+    exponent = 0
+    for i in range(dim):
+        for j in range(dim):
+            exponent += (pos[i]-mean[i]) * covInv[j][i] * (pos[j]-mean[j])
+
+    gauss = 1/(math.sqrt(2*math.pi) * math.sqrt(det)) * math.exp(-exponent/2)
+
+    return gauss
+
+
+
+
